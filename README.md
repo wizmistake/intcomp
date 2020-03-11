@@ -1,5 +1,4 @@
-Disciplina de Inteligencia Computacional
-Primeiro Projeto
+Disciplina de Inteligencia Computacional - Primeiro Projeto
 
 |       User       |  Operating System   |        IDE       | Python Package | Virtual Environment |             Browser            |            CPU             |       RAM       |          GPU          |
 | ---------------- | ------------------- | ---------------- | -------------- | ------------------- | ------------------------------ | -------------------------- | --------------- | --------------------- |
